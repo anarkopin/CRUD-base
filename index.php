@@ -17,6 +17,5 @@ require_once("conexion/datos.php");
     {
         require_once "login.php";
     }
-    sdasdassdasds
-    sadsadsa
+    hola esta es la modificacion de prueba directamente desde github
 ?>
