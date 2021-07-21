@@ -17,6 +17,7 @@ require_once("conexion/datos.php");
     {
         require_once "login.php";
     }
-    hola hice un cambio automatico
+    Devuelvele el cambio que hicimos por favor
+    esto es un cambio por favor hazlo
     
 ?>
