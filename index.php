@@ -17,7 +17,5 @@ require_once("conexion/datos.php");
     {
         require_once "login.php";
     }
-    Devuelvele el cambio que hicimos por favor
-    esto es un cambio por favor hazlo
     
 ?>
